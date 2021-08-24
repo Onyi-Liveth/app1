@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header">Happy Birthday Cynthia!</string>
+    <string name="cakeImage">cakeImage</string>
+    <string name="press_me">PRESS ME!</string>
+</resources>
